@@ -8,11 +8,11 @@ This is our first programming exercise in the bootcamp. We will write some code 
     - Click "Fork" in the top-right of the page - this will create a copy of this repo in *your own GitHub account*
 2. Clone (download) the repo
     - Go to your newly-created fork of the repo (on GitHub).
-    - Click `Clone or download` (the green button on the right).
-    - Make a note of the URL. For this you can clone with either HTTPS or SSH.
+    - Click `Code` (the green button on the right).
+    - Copy the URL. For this you can clone with either HTTPS or SSH.
     - Clone your repo into a folder by running `git clone <your-url-here>` in your terminal of choice
 
-3. "Cloning the repo" will create a folder on your computer with the files from this repo. Open this folder in IntelliJ.
+3. "Cloning the repo" will create a folder on your computer with the files from this repo. Open this folder in your IDE.
 
 4. Open a command-prompt in this same folder. Your trainer can show you how to do this, if you need any help.
 
