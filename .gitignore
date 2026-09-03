@@ -1,0 +1,8 @@
+### Intellij ###
+.idea
+
+### macOS ###
+.DS_Store
+
+### VisualStudioCode ###
+.vscode
